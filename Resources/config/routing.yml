@@ -1,0 +1,3 @@
+sharethis_homepage:
+    path:     /share_this_param
+    defaults: { _controller: SharethisBundle:Share:index }

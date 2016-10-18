@@ -1,0 +1,7 @@
+services:
+#    sharethis.example:
+#        class: SharethisBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
+    app.share_controller:
+        class: SharethisBundle\Controller\ShareController
+        arguments: ["@service_container"]

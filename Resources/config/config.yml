@@ -1,0 +1,10 @@
+sharethis:
+    param_one: value_one
+    param_two: value_two
+    param_three: value_three
+    param_four: value_four
+    param_five:
+        subparam_one: subvalue_one
+        subparam_two: subvalue_two
+        subparam_three: subvalue_three
+        subparam_four: subvalue_four
