@@ -45,23 +45,18 @@ file of your project:
 
 Step 3: Configure the bundle
 
-.. _sharethis-api: http://tools.sharethis.com/get-sharing-tools/#
-
+_sharethis-api: http://tools.sharethis.com/get-sharing-tools/#
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 .. code-block:: yaml
 
     # app/config/config.yml
     sharethis:
         publisher : #Your api key
-
-Usage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code-block:: yaml
+Usage
 
 In your template twig insert this code
-.. code-block:: yaml
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 {{ render(controller('SharethisBundle:Share:share')) }}
