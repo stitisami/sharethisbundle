@@ -63,7 +63,5 @@ Usage
 In your template twig insert this code
 .. code-block:: yaml
 
-{{ render(controller('SharethisBundle:Share:share')) }}
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+{{ render(controller('SharethisBundle:Share:share')) }}
