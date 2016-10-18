@@ -58,6 +58,7 @@ Go to sharethis-api_.
 
 Usage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. code-block:: yaml
 
 In your template twig insert this code
 
@@ -65,4 +66,5 @@ In your template twig insert this code
 
 .. code-block:: yaml
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
