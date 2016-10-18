@@ -52,6 +52,7 @@ Go to sharethis-api_.
 
 .. code-block:: yaml
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     # app/config/config.yml
     sharethis:
         publisher : #Your api key
