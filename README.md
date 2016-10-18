@@ -44,15 +44,14 @@ file of your project:
     }
 
 Step 3: Configure the bundle
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Go to sharethis-api_. 
 
 .. _sharethis-api: http://tools.sharethis.com/get-sharing-tools/#
 
-.. code-block:: yaml
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. code-block:: yaml
+
     # app/config/config.yml
     sharethis:
         publisher : #Your api key
