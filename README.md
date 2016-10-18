@@ -3,6 +3,8 @@ Using sharethisBundle
 
 Welcome to sharethisBundle - a Symfony bundle to make share This buttons
 
+![share this](http://tools.sharethis.com/images/new/Button4.png)
+
 Installation
 ------------
 
