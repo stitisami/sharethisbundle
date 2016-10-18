@@ -58,11 +58,10 @@ Go to sharethis-api_.
 
 Usage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In your template twig insert this code
-
-{{ render(controller('SharethisBundle:Share:share')) }}
-
 .. code-block:: yaml
 
+In your template twig insert this code
+.. code-block:: yaml
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+{{ render(controller('SharethisBundle:Share:share')) }}
